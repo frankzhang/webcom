@@ -10,15 +10,15 @@ Basically, this is a web application for real-time communication through browser
 The target of zwebcom is to enable people communicating with each other through web application.
 
 # feature to be implement
-*account register/login
-*setting account profile
-*address book admin
-*conversation/audio call/video/call
-*dashboard for admin
+* account register/login
+* setting account profile
+* address book admin
+* conversation/audio call/video/call
+* dashboard for admin
 * payment
 * mobile device should be consider 
 
-#design 
+# design 
 * welcome page
 * login page
 * main frame for authorized user(video call work area)
